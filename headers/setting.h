@@ -1,0 +1,10 @@
+#define SCREEN_WIDTH 800
+#define SCREEN_HEIGHT 450
+
+#define GRAVITY 10.0f
+#define SPEED_FACTOR 10.0f
+#define SPEED_MAX 270.0f
+
+#define BIRD_HEIGHT 30
+
+#define OBSTACLE_WIDTH 80

@@ -1,7 +1,6 @@
 
 
-EXE := Template
-
+EXE := Flappy
 C_VERSION := c99
 
 HEADERS := $(shell find headers -maxdepth 1 -name "*.h")
